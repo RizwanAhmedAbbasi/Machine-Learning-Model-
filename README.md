@@ -1,2 +1,2 @@
-# Machine-Learning-Model-
-Machine Learning Model projects
+# Machine-Learning-Model
+Machine Learning Model
